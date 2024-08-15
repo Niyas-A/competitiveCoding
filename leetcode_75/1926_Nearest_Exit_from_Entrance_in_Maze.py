@@ -1,3 +1,4 @@
+from collections import deque 
 class Solution(object):
     def nearestExit(self, maze, entrance):
         """
