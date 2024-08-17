@@ -1,4 +1,4 @@
-import heapq
+from heapq import heapify, heappop, heappush
 class Solution(object):
     def totalCost(self, costs, k, candidates):
         """
