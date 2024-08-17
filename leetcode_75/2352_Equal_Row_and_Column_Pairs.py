@@ -1,3 +1,4 @@
+from collections import Counter
 class Solution(object):
     def equalPairs(self, grid):
         """
